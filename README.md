@@ -25,16 +25,16 @@ I specialize in building scalable, maintainable test automation frameworks and e
 ### 1. 🚀 [Selenium Automation Framework (Java)](https://github.com/chandansinghsuyal/selenium-automation-framework-java)  
 A robust, modular Selenium WebDriver framework using Page Object Model and TestNG, integrated with Jenkins for continuous testing.
 
-### 2. 📡 [API Automation Suite](https://github.com/chandansinghsuyal/api-automation-testing)  
+### 2. 📡 [API Automation Suite](https://github.com/chandansinghsuyal/API-Automation-Suite)  
 Comprehensive API testing using REST Assured and Postman collections with validation for complex workflows and error handling.
 
-### 3. 🧪 [Robot Framework Test Suite](https://github.com/chandansinghsuyal/robotframework-testsuite)  
+### 3. 🧪 [Robot Framework Test Suite](https://github.com/chandansinghsuyal/Robot-Framework-Test-Suite)  
 End-to-end test automation using Robot Framework for web and API testing, with reusable keywords and data-driven testing.
 
-### 4. ⚡ [Load Testing with JMeter](https://github.com/chandansinghsuyal/jmeter-load-testing)  
+### 4. ⚡ [Load Testing with JMeter](https://github.com/chandansinghsuyal/Load-Testing-with-JMeter)  
 Performance testing scripts and reports measuring application scalability and response times under heavy loads.
 
-### 5. 🔍 [Cross-Browser Accessibility Testing](https://github.com/chandansinghsuyal/accessibility-testing)  
+### 5. 🔍 [Cross-Browser Accessibility Testing](https://github.com/chandansinghsuyal/Cross-Browser-Accessibility-Testing)
 Automated tests ensuring compliance with accessibility standards (WCAG) using NVDA and Selenium.
 
 ---
